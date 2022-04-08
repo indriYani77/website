@@ -1,0 +1,5 @@
+<div class="page">
+    <h2>Tentang Universitas Baturaja</h2>
+    <p>Universitas Baturaja  (UNBARA)   didirikan pada tanggal 8 Juli 1999.   Pendirian  didorong    oleh    keasadaran   dan tanggung    jawab untuk mencerdaskan kehidupan bangsa dan   menghasilkan     sumber   daya    manusia yang berkualitas dari segi IPTEK dan IMTAQ dalam rangka menunjang pembangunan nasional.
+Saat ini Universitas Baturaja telah memiliki 5 fakultas dengan 13 program studi Strata 1 (S1) dan Program Pasca Sarjana. Hal-hal di atas mendorong Universitas Baturaja agar selalu aktif berperan serta dalam pengembangan ilmu pengetahuan dan teknologi serta peningkatan kualitas, iman dan amal.  Semuanya  tercermin  dalam  tujuan  Universitas  Baturaja, yaitu mewujudkan sarjana yang berakhlak mulia, cakap, percaya diri dan berguna bagi masyarakat dan negara serta mampu mengamalkan  ilmu  pengetahuan untuk menunjang pembangunan yang diridhoi Allah SWT, Tuhan Yang Maha Esa.</p>
+</div>
